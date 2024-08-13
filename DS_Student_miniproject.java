@@ -1,21 +1,11 @@
-//MINIPROJECT
-/*
- Sanika Mane
- UCE2022560 
- */
 package net.codejava;
-
 import org.apache.poi.ss.usermodel.*;
-
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.util.*;
 import java.io.*;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.LinkedList;
-
-
-
 
 class StudentNode {
 private int id;
