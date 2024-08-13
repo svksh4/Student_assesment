@@ -1,7 +1,7 @@
 //MINIPROJECT
 /*
- Shriya Kshirsagar B3
- UCE2022552 
+ Sanika Mane
+ UCE2022560 
  */
 package net.codejava;
 
